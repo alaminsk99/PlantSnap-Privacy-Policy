@@ -19,7 +19,7 @@ Welcome to Plant Snap ("we," "our," or "us"). We respect your privacy and are co
 - Queries processed by Gemini are subject to Google’s [Privacy Policy](https://policies.google.com/privacy).  
 
 **5. Your Rights**  
-- Request access to or deletion of your data by contacting us at [Your Contact Email].  
+- Request access to or deletion of your data by contacting us at saikha752@gmail.com.  
 - Unsubscribe from emails via the "Unsubscribe" link in messages.  
 
 **6. Changes to This Policy**  
