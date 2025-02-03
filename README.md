@@ -2,7 +2,7 @@
 *(Last Updated: [02.02.2025])*
 
 **1. Introduction**  
-Welcome to Plant Snap ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This policy explains how we collect, use, and safeguard your information.
+Welcome to Plant Snap. We respect your privacy and are committed to protecting your personal data. This policy explains how we collect, use, and safeguard your information.
 
 **2. Data We Collect**  
 - **Email Address**: When you register, we collect your email address to create and manage your account.  
